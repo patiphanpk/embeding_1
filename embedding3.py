@@ -23,7 +23,7 @@ DATA_FOLDER = "E:/workspace/langchain-study/data"
 BASE_COLLECTION_NAME = "LangchainStudy"
 
 # รายการโมเดล BGE จาก Ollama ที่ต้องการทดสอบ
-BGE_MODELS = [
+E_MODELS = [
     "bge-m3",
     "bge-large",
     "mxbai-embed-large",
@@ -275,7 +275,7 @@ def main():
             print(f"\n{'='*70}")
             print("🚀 โปรแกรมทดสอบ Hybrid Search (Dense Vector + BM25 Sparse)")
             print(f"{'='*70}")
-            for i, model in enumerate(BGE_MODELS):
+            for i, model in enumerate(E_MODELS):
                 print(f"  [{i+1}] ทดสอบโมเดล: {model}")
             print("  [0] ออกจากโปรแกรม")
             print("="*70)
@@ -292,8 +292,8 @@ def main():
                 if choice == 0:
                     print("👋 ออกจากโปรแกรม")
                     break
-                elif 1 <= choice <= len(BGE_MODELS):
-                    selected_model = BGE_MODELS[choice - 1]
+                elif 1 <= choice <= len(E_MODELS):
+                    selected_model = E_MODELS[choice - 1]
                     run_test_for_model(weaviate_client, selected_model, documents)
                 else:
                     print("❌ ตัวเลือกไม่ถูกต้อง กรุณาเลือกตัวเลขในช่วงที่กำหนด")
