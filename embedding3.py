@@ -8,12 +8,8 @@ from weaviate.classes.query import MetadataQuery
 from langchain.schema import Document
 from langchain_ollama import OllamaEmbeddings
 
-# === Import splitter จาก doc_chunk_edit2.py ===
-try:
-    from doc_chunk_edit2 import AcademicDocumentSplitter
-except ImportError:
-    print("❌ ไม่พบไฟล์ doc_chunk_edit2.py หรือคลาส AcademicDocumentSplitter")
-    exit()
+from doc_chunk_edit2 import AcademicDocumentSplitter
+
 
 # --- การตั้งค่า (Configuration) ---
 load_dotenv()

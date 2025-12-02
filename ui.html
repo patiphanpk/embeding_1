@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT UI</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    
+    <style>
+        /* (สไตล์ส่วนอื่นเหมือนเดิม) */
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: -apple-system, sans-serif; background-color: #ffffff; color: #222; display: flex; flex-direction: column; height: 100vh; }
+        .top-header { position: absolute; top: 16px; left: 24px; font-size: 24px; font-weight: 500; color: #333; cursor: pointer; display: flex; align-items: center; gap: 6px; }
+        .top-header i { font-size: 24px; margin-left: 4px; color: #52B69A }
+        .top-header svg { margin-top: -2px; }
+
+        /* --- 3. Main Content (ตัวจัดกลาง) --- */
+        .main-content {
+            flex-grow: 1; 
+            display: flex;
+            flex-direction: column;
+            
+            /* --- V V V CSS CHANGE V V V --- */
+            /* เปลี่ยนจาก flex-start เป็น center
+              เพื่อให้ทุกอย่าง (greeting + search-bar) อยู่กลางจอก่อนเริ่ม 
+            */
+            justify-content: center; 
+            height: 100vh;
+            /* --- ^ ^ ^ END OF CSS CHANGE ^ ^ ^ --- */
+            
+            align-items: center;     
+            padding: 20px;
+            overflow-y: auto; 
+            
+            /* (เพิ่ม) ทำให้การเลื่อนเปลี่ยนตำแหน่งนุ่มนวล */
+            transition: justify-content 0.3s ease;
+        }
+
+        /* --- 3.1 Chat History --- */
+        #chat-history {
+            width: 100%;
+            max-width: 700px; /* ความกว้างเดียวกับ search-bar */
+            display: flex;
+            flex-direction: column;
+            gap: 16px; /* ระยะห่างระหว่างข้อความ */
+            margin-bottom: 24px; /* เว้นระยะห่างจาก greeting/search-bar */
+        }
+        
+        /* (สไตล์ .message ทั้งหมดเหมือนเดิม) */
+        .message { display: flex; align-items: flex-start; gap: 10px; max-width: 80%; }
+        .message.message-bot { align-self: flex-start; }
+        .message.message-user { align-self: flex-end; flex-direction: row-reverse; }
+        .message .message-icon { font-size: 1.2rem; color: #777; padding-top: 6px; flex-shrink: 0; }
+        .message.message-user .message-icon { color: #1A759F; }
+        .message .message-bubble { border-radius: 12px; padding: 12px 16px; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05); font-size: 0.95rem; line-height: 1.5; }
+        .message.message-bot .message-bubble { background-color: #e7f0a3; }
+        .message.message-user .message-bubble { background-color: #e0f7fa; color: #005f73; }
+
+        /* --- 4. Greeting Text --- */
+        .greeting-text {
+            font-size: 2.2rem; 
+            font-weight: 500; 
+            color: #333;
+            margin-bottom: 32px; 
+            text-align: center;
+        }
+
+        /* --- 5. Search Bar --- */
+        .search-bar {
+            display: flex;
+            align-items: center;
+            width: 100%;
+            max-width: 700px; 
+            background-color: #ffffff;
+            border: 1px solid #e0e0e0; 
+            border-radius: 999px; 
+            padding: 12px 16px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07); 
+            transition: border-color 0.5s, box-shadow 0.5s;
+            margin-top: 16px; 
+        }
+        .search-bar:hover {
+            border-color: #52B69A;
+            border-width: 1px;
+        }
+     
+        .search-bar input[type="text"] { flex-grow: 1; border: none; outline: none; font-size: 1rem; background-color: transparent; margin: 0 10px; }
+        .search-bar input[type="text"]::placeholder { color: #999; }
+        .search-bar .icon { font-size: 1.1rem; color: #1A759F; cursor: pointer; padding: 6px; border-radius: 50%; transition: background-color 0.2s; }
+        .search-bar .icon:hover { background-color: #f0f0f0; }
+        .search-bar .right-icons { display: flex; gap: 8px; }
+    </style>
+</head>
+<body>
+
+    <header class="top-header">
+        <i class="fa-solid fa-message"></i>
+        Chatbot
+    </header>
+
+    <main class="main-content" id="main-content">
+    <div id="chat-history">
+            </div>
+        <h1 class="greeting-text" id="greeting-text">
+            สวัสดี! มีอะไรให้ช่วยไหม?
+        </h1>
+
+        <div class="search-bar">
+            <input type="text" placeholder="ถามอะไรก็ได้" id="chat-input">
+            <div class="right-icons">
+                <i class="fa-solid fa-paper-plane icon" id="send-button"></i>
+            </div>
+        </div>
+
+    </main>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            
+            // 1. ดึง element ที่เราต้องใช้
+            const sendButton = document.getElementById("send-button");
+            const chatInput = document.getElementById("chat-input");
+            const chatHistory = document.getElementById("chat-history");
+            const greetingText = document.getElementById("greeting-text");
+            
+            /* --- V V V JAVASCRIPT CHANGE V V V --- */
+            // 1.1 ดึง main-content มาด้วย
+            const mainContent = document.getElementById("main-content");
+            /* --- ^ ^ ^ END OF JAVASCRIPT CHANGE ^ ^ ^ --- */
+
+
+            // 2. สร้างฟังก์ชันสำหรับจัดการการส่ง
+            const handleSend = () => {
+                const query = chatInput.value.trim(); 
+                
+                if (query === "") {
+                    return;
+                }
+
+                // 3. ซ่อนข้อความต้อนรับ (ถ้ามันยังอยู่)
+                if (greetingText) {
+                    greetingText.style.display = "none";
+                    
+                    /* --- V V V JAVASCRIPT CHANGE V V V --- */
+                    // 3.1 เปลี่ยน layout ให้อยู่ชิดบน
+                    mainContent.style.justifyContent = "flex-start";
+                    /* --- ^ ^ ^ END OF JAVASCRIPT CHANGE ^ ^ ^ --- */
+                }
+
+                // 4. สร้างข้อความของ User
+                appendMessage(query, "user");
+
+                // 5. สร้างข้อความตอบกลับของ Bot (ตัวอย่าง)
+                setTimeout(() => {
+                    const botReply = "นี่คือข้อความตอบกลับตัวอย่างจาก AI ครับ 🤖<br><br><br><br><br><br>";
+                    appendMessage(botReply, "bot");
+                }, 500); 
+
+                // 6. ล้างช่องพิมพ์
+                chatInput.value = "";
+            };
+            
+            // 7. สร้างฟังก์ชันสำหรับเพิ่มข้อความลงใน UI
+            const appendMessage = (text, sender) => {
+                const messageDiv = document.createElement("div");
+                messageDiv.classList.add("message", `message-${sender}`);
+
+                const iconClass = (sender === "user") ? "fa-solid fa-user" : "fa-solid fa-robot";
+                
+                messageDiv.innerHTML = `
+                    <i class="${iconClass} message-icon"></i>
+                    <div class="message-bubble">
+                        <p>${text}</p>
+                    </div>
+                `;
+                
+                chatHistory.appendChild(messageDiv);
+                
+                // (แก้ไข) เลื่อน scroll ของ .main-content แทน
+                mainContent.scrollTop = mainContent.scrollHeight;
+            };
+
+            // 8. สั่งให้ปุ่ม "ส่ง" ทำงานเมื่อคลิก
+            sendButton.addEventListener("click", handleSend);
+
+            // 9. (แถม) สั่งให้กด Enter แล้วส่ง
+            chatInput.addEventListener("keydown", (event) => {
+                if (event.key === "Enter") {
+                    event.preventDefault(); 
+                    handleSend();
+                }
+            });
+
+        });
+    </script>
+</body>
+</html>

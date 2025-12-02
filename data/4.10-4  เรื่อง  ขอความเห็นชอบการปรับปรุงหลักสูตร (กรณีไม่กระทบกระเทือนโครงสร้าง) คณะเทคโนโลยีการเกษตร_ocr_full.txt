@@ -1,0 +1,291 @@
+
+--- หน้า 1 ---
+# มติคณะกรรมการสภาวิชาการ
+## ครั้งที่ ๑/๒๕๖๘ เรื่อง ขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) คณะเทคโนโลยีการเกษตร
+
+ด้วย คณะเทคโนโลยีการเกษตร มีความประสงค์เสนอขอความเห็นชอบปรับปรุงแก้ไขหลักสูตร
+(กรณีไม่กระทบกระเทือนโครงสร้าง) ทั้งนี้ สำนักงานบริหารวิชาการและคุณภาพการศึกษา ได้ตรวจสอบ
+หลักสูตรแล้วเป็นไปตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘ และ พ.ศ. ๒๕๖๕ โดยสาระของ
+การขอปรับปรุงเป็นการปรับปรุงแบบไม่กระทบกระเทือนโครงสร้าง โดยจำนวนหน่วยกิตรวมไม่เปลี่ยนแปลง
+
+จึงเสนอขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง)
+จำนวน ๓ หลักสูตร ดังนี้
+### ระดับปริญญาตรี ๓ หลักสูตร
+
+๑) หลักสูตรวิทยาศาสตรบัญชิต สาขาวิชานวัตกรรมการผลิตสัตว์น้ำและการจัดการทรัพยากรประมง
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๔)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะเทคโนโลยีการเกษตร ครั้งที่ ๑๑/๒๕๖๗ เมื่อวันที่
+๑๘ ธันวาคม ๒๕๖๗
+#### ๑. เหตุผลการปรับปรุง
+
+\- ขอเปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร จำนวน ๑ ราย เนื่องจากรศ.ดร.คมแข
+พิลาสมบัติ ย้ายไปเป็นผู้รับผิดชอบหลักสูตรอื่น จึงขอเปลี่ยนอาจารย์ผู้รับผิดชอบหลักสูตรเป็น ดร.สุวรีย์
+กิติเขียว เข้ามาทำหน้าที่ทดแทน
+##### ๒. สาระในการปรับปรุงแก้ไข
+
+\- เปลี่ยนแปลงอาจารย์ผู้รับผิดชอบหลักสูตร ในลำดับที่ ๓
+<table>
+<tr>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td>๑. รศ.ดร.รุ่งตะวัน ย่มหล้า (สาขาวิชาเทคโนโลยี ประมง)</td>
+<td>๑. รศ.ดร.รุ่งตะวัน ย่มหล้า (สาขาวิชาเทคโนโลยี ประมง)</td>
+<td>Pilapang, K., Sijad, S. and Yomla, R. (2023). The effect of Moina sp. immersion with 17alpha-methyl testosterone (17MT) on sex reversal of Nile tilapia. International Journal of Agricultural Technology 19(4):1765-1776.</td>
+</tr>
+<tr>
+<td rowspan="2">๒. ผศ.ดร.อัจฉริ เรืองเศษ (สาขาวิชาวาริชศาสตร์)</td>
+<td>๒. ผศ.ดร.อัจฉริ เรืองเศษ (สาขาวิชาวาริชศาสตร์)</td>
+<td>วิมลมาดา บุญมี, อัจฉริ เรืองเศษ, บุญพา จงพัฒน์, นางนุช เละหวิสุทธิ์ และ สมเกียรติ สีสนอง. (๒๐๒๔). ผลลอง NAA ร่วมกับ TDZ ต่อการซักนำให้เกิดต้นอ่อนในการ เพาะเลี้ยงเนื้อเยื่อ พรรณไบน้ำใบพายศรีสังกาสีน้ำตาล. วารสารเกษตรพระจอมเกล้า, ๔๒(๓), ๓๙๕-๔๐๓. https://doi.org/10.55003/kmaj.2024.11.22.015</td>
+</tr>
+<tr>
+<td>MS. (Aquatic Environmental Science) วท.ม. (วิทยาศาสตร์การ ประมง)</td>
+<td></td>
+</tr>
+<tr>
+<td>วท.บ. (ประมง)</td>
+<td>วท.บ. (ประมง)</td>
+<td></td>
+</tr>
+<tr>
+<td>๓. รศ.ดร.คมแข ปร.ด. (เทคโนโลยีชีวภาพ พิลาสมบัติ สาขาวิชาสัตวศาสตร์) วท.ม. (สัตวศาสตร์) วท.บ. (เกษตรศาสตร์)</td>
+<td>๓. ดร.สุวรีย์ กิติเขียว Ph.D. (Agriculture) M.Sc. (Aquaculture) วท.บ. (ประมง)</td>
+<td>Wongpracha, P., Kantha Wong, P., Arun, J., Jeyaraj, G. P., Jongput, B., Srijad, S., & Kittikew, S. (2024). Effects of Bacillus probiotics, Bacillus subtilis and Bacillus cereus dietary additional to controlling Vibriosis infected of white shrimp</td>
+</tr>
+</table>
+
+--- หน้า 2 ---
+<table>
+<tr>
+<th colspan="2">อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th colspan="2">อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th></th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td rowspan="2">๔. ผศ.ดุสิต เอื้ออำนวย วท.ม. (เพาะเลี้ยงสัตว์น้ำ) (สาขาวิชาการเพาะ วท.บ. (วิทยาศาสตร์การ เลี้ยงสัตว์น้ำ)</td>
+<td></td>
+<td>๔. ผศ.ดุสิต เอื้ออำนวย วท.ม. (เพาะเลี้ยงสัตว์น้ำ) (สาขาวิชาการเพาะเลี้ยง สัตว์น้ำ)</td>
+<td>วท.บ. (วิทยาศาสตร์การ ประมง)</td>
+<td>( Litopenaeus vannamai). Int. J. Agric. Technol,</td>
+<td>20(1), 427-440.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>วระเชษฐ์ หัวนมวรณ์, อิชากโอซะ ซูชัยอี, คุลิต เอื้ออำนวย และ ปวีณา ทวีกิจการ. (๒๐๖๐). การพัฒนาอวัยวะสร้าง เชลล์สืบพันธุ์และขนาดแรกสืบพันธุ์ของหอยฝาเดียว Stenothrya sp. Gonadal Development and Size at First Maturity of Stenothrya sp. วารสารเกษตร พระจอมเกล้า, ๓๘(๔), ๕๐๙-๕๒๗.</td>
+</tr>
+<tr>
+<td>๕. ดร.ผจงจิตต์ ทองศรี Ph.D. (Aquatic Animal Medicine)</td>
+<td></td>
+<td>๕. ดร.ผจงจิตต์ ทองศรี Ph.D. (Aquatic Animal Medicine)</td>
+<td>วท.ม. (วิทยาศาสตร์การ ประมง)</td>
+<td>Puttongsi, T., Manichart, N., Teerarak, M., Sikhaio, P., Somala, N., Tongsrí, P., &amp; Pilasombat, K. (2024). Siamese neem tree as a natural preservative: Chemical profile, antioxidant properties, and antibacterial efficacy against foodborne pathogens and spoilage bacteria. Journal of Agriculture and Food Research. 101559. https://doi.org/10.1016/j.jafre.2024.101559</td>
+<td></td>
+</tr>
+<tr>
+<td>วท.บ. (ประมง)</td>
+<td></td>
+<td>วท.บ. (ประมง)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+# ๒) หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาการจัดการสมาร์ตฟาร์ม (การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๔)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะเทคโนโลยีการเกษตร ครั้งที่ ๑๑/๒๕๖๗ เมื่อวันที่
+๑๘ ธันวาคม ๒๕๖๗
+## ๑. เหตุผลการปรับปรุง
+
+\- ขอเปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร จำนวน ๓ ท่าน เนื่องจาก ผศ.ดร.อนัญญา
+เจริญพรนิพัทธ เกษียณอายราชกร, ดร.สุวรีย์ กิติเขียว และ ดร.ปัทมา นิตไธสง ย้ายไปเป็นผู้รับผิดชอบ
+หลักสูตรอื่น โดย ผศ.ดร.นาตยา มนครี, ดร.ฐิติมา พนมโสภณ และ อ.ศิรมศร์ วีระสกุลวัฒน์ เข้ามาทำหน้าที่
+ทดแทน
+<figure>**Observation:** The image shows a circular emblem.
+**Text Recognition:** The text around the perimeter of the circle appears to read "โรงเรียนสาธิต".
+**Final Summary:** The image is of a circular emblem with the Thai text "โรงเรียนสาธิต" written around its edge.</figure>
+## ๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอเปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร ในลำดับที่ ๓, ๔ และ ๕
+<table>
+<tr>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td>๑. ผศ.ดร.สำแพน ขวัญพล วท.ต. (พืชสวน) (สาขาวิชาพืชสวน) วท.บ. (เกษตรศาสตร์)</td>
+<td>๑. ผศ.ดร.สำแพน ขวัญพล วท.ต. (พืชสวน) (สาขาวิชาพืชสวน) วท.บ. (เกษตรศาสตร์)</td>
+<td>Suwanmanepong, S., Kultawanich, K., Khurnpoon, L., Sabaijai, P. E., Kerdsrisern, C., & Cavite, H. J. M. (2024). Production performance and adoption opinion toward wet and dry farming of GAP and Non- GAP farmers in Suburban Bangkok, Thailand. Agricultural Research, 13(1), 169-181.</td>
+</tr>
+<tr>
+<td>๒. ผศ.ดร.น.สพ.จำลอง มิตรชาวไทย (สาขาวิชาวยรศาสตร์</td>
+<td>๒. ผศ.ดร.น.สพ.จำลอง มิตรชาวไทย (สาขาวิชาวยรศาสตร์</td>
+<td>Mitchaothai, J., Lertpatarakomol, R., Trairatapiwan, T., & Lukkananukool, A. (2024). Influence of Incubation Temperature and Relative Humidity on the Egg Hatchability Pattern of Two-Spotted (Gryllus bimaculatus) and House (Acheta domesticus) Crickets. Animals, 14(15), 2176. https://doi.org/10.3390/ani14152176</td>
+</tr>
+<tr>
+<td>สัตว์)</td>
+<td>Epidemiology and Economics) สพ.บ. (สัตว แพทยศาสตร์)</td>
+<td>Epidemiology and Economics) สพ.บ. (สัตว แพทยศาสตร์)</td>
+</tr>
+<tr>
+<td>๓. ผศ.ดร.อนัญญา เจริญพรนิพัทธ Doc. Tech. Sci. (Aquaculture &amp;</td>
+<td>๓. ผศ.ดร.นาตยา มนครี Dr.rer.nat. (Pharmazie) (สาขาวิชาพืชสวน) วท.ม. (เกษตรศาสตร์)</td>
+<td>Montri, N., Chayuttam, S., Deewattanawong, R. and Burya-atichart, K. (2024). Paclobutrazol</td>
+</tr>
+</table>
+
+--- หน้า 3 ---
+<table>
+<tr>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td>(สาขาวิชาวิทยาศาสตร์ การประมง) Aquatic Resources management) วท.บ. (สัตว์วิทยา) วท.บ. (ชีววิทยา)</td>
+<td>วท.บ. (เกษตรศาสตร์)</td>
+<td>enhances yield and secondary compounds accumulation in Curcuma longa L. International Journal of Agricultural Technology 20(6):2435-2448.</td>
+</tr>
+<tr>
+<td rowspan="2">๔. ดร.สุวรีย์ กิติเขียว Ph.D.(Aquaculture) M.Sc. (Aquaculture) วท.บ. (ประมง)</td>
+<td>๔. ดร.ฐิติมา พนมโสภณ วศ.ด. (วิศวกรรมเกษตร) วศ.ม. (วิศวกรรมเกษตร) วศ.บ. (วิศวกรรมเกษตร)</td>
+<td>Sirisomboon, P., Duangchang, J., Phanomsophon, T., Lapcharoensuk, R., Shrestha, B.P., Kasemsamran, S., Thanapase, W., Porncaloempong, P., & Tsuchikawa, S. (2024). Analysis of the Pomelo Peel Essential Oils at Different Storage Durations Using a Visible and Near-Infrared Spectroscopic on Intact Fruit. Foods, 13(15), 2379. https://doi.org/https://doi.org/10.3390/foods13152379</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>๕. ดร.ปัทธา นิตไธสง Dr. (Agriculture) วท.ม. (เกษตรศาสตร์) วท.บ. (เกษตรศาสตร์)</td>
+<td>๕. อาจารย์ศิริเมศร์ วีระ สกุลวัฒน์ วศ.ด. (วิศวกรรมเกษตร) วศ.ม. (วิศวกรรมเกษตร) วศ.บ. (วิศวกรรมเกษตร)</td>
+<td>Orsuwan, W., Veerasakulwat, S. and Suwanmaneepong, S. (2024). Comparison of cost and return for rubber farmers on innovations to increase latex production in Ban Khai District, Rayong Province, Thailand. International Journal of Agricultural Technology 20(2):665-678.</td>
+</tr>
+</table>
+# ๓) หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาการพยาบาลสัตว์และการจัดการธุรกิจสัตว์เลี้ยง (การปรับปรุง
+## แก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๘)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๖๕)
+
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำสวนงานวิชาการ คณะเทคโนโลยีการเกษตร ครั้งที่ ๑๑/๒๕๖๗ เมื่อวันที่
+๑๘ ธันวาคม ๒๕๖๗
+### ๑. เหตุผลการปรับปรุง
+
+\- ขอเปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร จำนวน ๑ ท่าน ได้แก่ รศ.ดร.คำรณวิทย์
+ทิพย์มนี เนื่องจากติดภารกิจ โดย รศ.ดร.คมแข พิลาสมบัติ เข้ามาทำหน้าที่ทดแทน
+### ๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอเปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร ในลำดับที่ ๔
+<table>
+<tr>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td>๑. ผศ.ดร.สพ.ญ. พรณพิชญา ฟังวิทยา (สาขาวิชาชีวเวชศาสตร์) วท.ม. (เภสัชวิทยาทางสัตว แพทย์) สพ.บ.</td>
+<td>๑. ผศ.ดร.สพ.ญ. พรรณพิชญา ฟังวิทยา (สาขาวิชาชีวเวชศาสตร์) วท.ม. (เภสัชวิทยาทางสัตว แพทย์) สพ.บ.</td>
+<td>Fungwithaya, P., Boonhoh, W., Santigun, N., Hayakjkosol, O., Klangbud, W.K., & Wongtawan, T. (2024). Seroprevalence of melioidosis and its association with blood profiles and pathogens in sheltered dogs in southern Thailand. Veterinary World, 17(3), 705-711. https://doi: 10.14202/vetworld.2024.705- 711</td>
+</tr>
+<tr>
+<td>๒. สพ.ญ.ดร.กิตติมา ลิ๋วเฉลิมวงศ์</td>
+<td>ปร.ด. (วิทยาศัตร์ชีวภาพ ประยุกต์) สพ.บ.</td>
+<td>Leewchaermvong, K., Kulnanan, P., Boonchay, K., Thaikoed, S., Phetcharat, Y., Yiengvisavaku, V., Damrongwatanapokin, T., Lavilla, C., & Sumretprasong, J. (2023). Semen characterization of Dang Surat Thai</td>
+</tr>
+</table>
+
+--- หน้า 4 ---
+<table>
+<tr>
+<th colspan="2">อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานวิชาการ</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>native chicken. Veterinary Integrative Sciences, 21(1), 175-185.</td>
+</tr>
+<tr>
+<td>๓. ผศ.ดร.ธงชัย พุฒทองศิริ ปร.ด. (Food Science) (สาขาวิชาวิทยาศาสตร์และ เทคโนโลยีอาหาร)</td>
+<td>วท.บ. (อุตสาหกรรมเกษตร)</td>
+<td>๓. ผศ.ดร.ธงชัย พุฒทองศิริ ปร.ด. (Food Science) (สาขาวิชาวิทยาศาสตร์และ เทคโนโลยีอาหาร)</td>
+<td>https://doi:10.12982/VIS.2023.014 Puttingsiri, T., Manichart, N., Teerak,</td>
+</tr>
+<tr>
+<td rowspan="6"></td>
+<td rowspan="6"></td>
+<td rowspan="6">วท.ม. (วิทยาศาสตร์การ อาหาร) วท.บ. (อุตสาหกรรมเกษตร)</td>
+<td>M, Sikha, P., Somala, N., Tongsi, P., &amp; Pilasombat, K. (2024). Siamese neem tree as a natural preservative: Chemical profile, antioxidant properties, and antibacterial efficacy against foodborne pathogens and spoilage bacteria. Journal of Agriculture and Food Research, 101559. https://doi.org/10.1016/j.jafre.2024.101559</td>
+</tr>
+<tr>
+<td>๔. รศ.ดร.คำรณวิทย์ ธิพย์มนี</td>
+<td>Dr. Agr. Sci. (Entomology)</td>
+<td>๔. รศ.ดร.คมแข พิลาสมบัติ</td>
+<td>Puttingsiri, T., Manichart, N., Teerarak, M, Sikha, P., Somala, N., Tongsi, P., &amp; Pilasombat, K. (2024). Siamese neem tree as a natural preservative: Chemical profile, antioxidant properties, and antibacterial efficacy against foodborne pathogens and spoilage bacteria. Journal of Agriculture and Food Research, 101559</td>
+</tr>
+<tr>
+<td>(สาขาวิชาเทคโนโลยีการ จัดการศัตรูพืช)</td>
+<td>วท.ม. (เกษตรศาสตร์) วท.บ. (เกษตรศาสตร์)</td>
+<td>ประ.ด. (เทศโนโดยชีวภาพเกษตร) วท.ม. (สัตวศาสตร์) วท.บ. (เกษตรศาสตร์)</td>
+<td>https://doi.org/10.1016/j.jafre.2024.101559</td>
+</tr>
+<tr>
+<td>๕. ผศ.ดร.นารินทร์ สนาภักษณ์</td>
+<td>ปร.ด. (ประสิตวิทยา) วท.บ. (จุลชีววิทยา) (เกียรตินิยมอันดับ ๑)</td>
+<td>๕. ผศ.ดร.นารินทร์ สนธิภัณย์ ปร.ด. (ประสิตวิทยา) วท.บ. (จุลชีววิทยา) (เกียรตินิยมอันดับ ๑)</td>
+<td>Laojun, S., Sontioun, N., &amp; Chalphongpacha, T. (2024). Influence of insular conditions on wing phenotypic variation in two dominant mosquito vectors, Aedes albopictus and Armigeres subalbatus (Diptera: Culicidae), in the border archipelagos of Thailand. Medical and veterinary entomology. Medical and Veterinary Entomology,, 38(3):349-360. https://doi. org/10.1111/mve.12722</td>
+</tr>
+<tr>
+<td>(สาขาวิชาประสิตวิทยา)</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+# ทั้งนี้ ได้ผ่านการพิจารณาจากคณะอนุกรรมการกลั่นครองระดับปริญญาตรี และระดับ
+## บัณฑิตศึกษา เรียบร้อยแล้ว
+
+ที่ประชุมคณะกรรมการสภาวิชาการได้พิจารณาการปรับปรุงแก้ไขหลักสูตร (กรณีไม่
+กระทบกระเทือนโครงสร้าง) ของคณะเทคโนโลยีการเกษตร ประธานในที่ประชุมได้ให้คณะกรรมการฯ
+แสดงความคิดเห็นโดยไม่มีคณะกรรมการฯ ท่านใดทักท้วง จึงมีความเห็นชอบร่วมกันในการปรับปรุง
+หลักสูตรดังกล่าว
+
+มติ ที่ประชุม ๑. เห็นชอบ การปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) ของคณะ
+เทคโนโลยีการเกษตร จำนวน ๓ หลักสูตร ดังนี้
+### ระดับปริญญาตรี
+
+๑) หลักสูตรวิทยาศาสตรบัญชิต สาขาวิชานวัตกรรมการผลิตสัตว์น้ำและการจัดการ
+ทรัพยากร (การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๔)
+
+--- หน้า 5 ---
+๒) หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาการจัดการสมาร์ตฟาร์ม (การปรับปรุงแก้ไข
+หลักสูตร ฉบับปี พ.ศ. ๒๕๖๔)
+
+๓) หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาการพยาบาลสัตว์และการจัดการธุรกิจสัตว์เลี้ยง
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๘)
+
+๒. ให้เสนอคณะอนุกรรมการสถาสถาบันเพื่อพิจารณาด้านวิชาการ และสถาสถาบันเพื่อโปรด
+พิจารณาตามลำดับ
+<figure>**Observation:**
+The image shows a circular emblem or seal. The central element is a stylized depiction of Ganesha at the center. Above Ganesha is Thai text. Below Ganesha are two pillars.
+
+**Text Recognition:**
+The text above Ganesha reads "ที่ประชุมคณะกรรมการสภาวิชาการ เมื่อวันพุธที่ ๒๒ มกราคม พ.ศ. ๒๕๖๘" which translates to "Meeting of the Academic Council on Wednesday, January 22, B.E. 2568".
+The text below Ganesha reads "(รองศาสตราจารย์ ดร.ปุณณมา ศิริพันธ์โนน) กรรมการและเลขานุการ" which translates to "(Associate Professor Dr. Poonma Siripanthon) Secretary and Clerk".
+
+**Final Summary:**
+The image is a seal featuring a stylized Ganesha in the center. Above Ganesha is the name of a meeting of the Academic Council on January 22, 2015 BE (Buddhist Era). Below Ganesha is the name of a person and their title as Secretary and Clerk.</figure>
+# มติสภาวิชาการ

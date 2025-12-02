@@ -1,0 +1,152 @@
+
+--- หน้า 1 ---
+# มติคณะกรรมการสภาวิชาการ
+## ครั้งที่ ๑/๒๕๖๘ เรื่อง ขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) คณะวิทยาศาสตร์
+
+ด้วยคณะวิทยาศาสตร์ มีความประสงค์เสนอขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณี
+ไม่กระทบกระเทือนโครงสร้าง) ทั้งนี้ สำนักงานบริหารวิชาการและคุณภาพการศึกษาได้ตรวจสอบหลักสูตรแล้ว
+เป็นไปตามเกณฑ์มาตรฐานหลักสูตรระดับบัณฑิตศึกษา พ.ศ. ๒๕๕๘ โดยสาระของการขอปรับปรุง เป็นการ
+ปรับปรุงแบบไม่กระทบกระเทือนโครงสร้าง โดยจำนวนหน่วยกิตรวมไม่เปลี่ยนแปลง
+
+จึงเสนอขอความเห็นชอบการขอปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง)
+จำนวน ๑ หลักสูตร ดังนี้
+### ระดับบัณฑิตศึกษา ๑ หลักสูตร
+
+๑) หลักสูตรวิทยาศาสตรมหาบัณฑิต สาขาวิชาวิทยาการคอมพิวเตอร์ (การปรับปรุงแก้ไขหลักสูตร ฉบับปี
+พ.ศ. ๒๕๖๕)
+
+(เกณฑ์มาตรฐานหลักสูตร ฉบับปี พ.ศ. ๒๕๕๘)
+
+โดยผ่านการพิจารณาจาก
+
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิทยาศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๙ ธันวาคม ๒๕๖๗
+
+๑. เหตุผลการปรับปรุง
+
+\- เพื่อให้การบริหารจัดการด้านหลักสูตร ดำเนินไปด้วยความเรียบร้อย
+
+๒. สาระในการปรับปรุงแก้ไข
+
+\- เปลี่ยนแปลงรายชื่ออาจารย์ผู้รับผิดชอบหลักสูตร เป็นลำดับที่ ๓
+<table>
+<tr>
+<th colspan="2">อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th colspan="2">อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th rowspan="2"></th>
+<th rowspan="2">ผลงานทางวิชาการ</th>
+</tr>
+<tr>
+<td>๑. ผศ.ดร.วรกาคน กือปาน</td>
+<td>D.Tech.Sc. (Computer Science)</td>
+<td>๑. ผศ.ดร.วรกาคน กือปาน</td>
+<td>D. Tech Sc.(Computer Science)</td>
+<td>1. Kimpan, W., Palananda, A,</td>
+</tr>
+<tr>
+<td>(สาขาวิชาวิทยาการคอมพิวเตอร์</td>
+<td>M.S. (Computer Science)</td>
+<td>(สาขาวิชาวิทยาการคอมพิวเตอร์</td>
+<td>M.S. (Computer Science)</td>
+<td>Krukaew, B., "Automation 4.0 for Water Level Monitoring System", Proceedings of the 7th International Conference on Information Technology, InCIT 2023, pp. 6-10.</td>
+</tr>
+<tr>
+<td>วท.ม. (วิทยาศาสตร์</td>
+<td></td>
+<td>วท.ม. (วิทยาศาสตร์</td>
+<td></td>
+<td>2. De Marchi, M.; Jitgennamdan, P., Singsri, P., Putpuek, N., Kumpakeaw, S.,</td>
+</tr>
+<tr>
+<td>คอมพิวเตอร์</td>
+<td></td>
+<td>คอมพิวเตอร์</td>
+<td></td>
+<td>Bundasak, S., Kimpan, W., and Rauch, E., "Network Architecture of ETAT Education and Training Centers for Automation 4.0", Lecture Notes in Networks and Systems (LNNS volume 525), 14 August, 2022, Italy,</td>
+</tr>
+<tr>
+<td>วท.บ. (คณิตศาสตร์</td>
+<td></td>
+<td>วท.บ. (คณิตศาสตร์</td>
+<td></td>
+<td>10.007/978-3-031-14317-5_28.</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>3. Santikan, P., Tangwongchaoen, W.,</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Kimpan, W., "Define Stance and Swing pattern of gait cycle using motion sensor and K-Mean Clustering",</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Proceedings of the 19th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information</td>
+</tr>
+</table>
+# มติสภา
+
+--- หน้า 2 ---
+<table>
+<tr>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (เดิม)</th>
+<th>อาจารย์ผู้รับผิดชอบหลักสูตร (แก้ไขใหม่)</th>
+<th>ผลงานทางวิชาการ</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>Technology, ECTI-CON, 24-27 May 2022, Thailand, https://doi.org/10.1109/ECTI- CON54298.2022.9795482.</td>
+</tr>
+<tr>
+<td rowspan="6">๒. ผศ.ดร.อนันตพร หรษคุณาภัย (สาขาวิชาวิทยาการคอมพิวเตอร์)</td>
+<td>วศ.ด. (วิศวกรรมคอมพิวเตอร์) วทม. (วิทยาการคณนา) วทบ. (วิทยาการคอมพิวเตอร์)</td>
+<td>๒. ผศ.ดร.อนันตพร หรษคุณาภัย (สาขาวิชาวิทยาการคอมพิวเตอร์) วศ.ด. (วิศวกรรมคอมพิวเตอร์) วทม. (วิทยาการคณนา) วทบ. (วิทยาการคอมพิวเตอร์)</td>
+<td>1. Hanskunatai, A., Jaiyen, S., Claypo, N., "Fast Defect Detection for Glass Bottle using Autoencoder and Error Threshold", ICIC Express LettersVolume 18, Issue 6, June 2024, pp. 551 - 562. 2. Claypo, N., Jaiyen, S., Hanskunatai, A., "Face Spoofing Detection based on DeepFeature Extraction and Instance- based Classification", ICIC Express Letters, 2023;17(2), pp. 235-244. 3. Claypo, N., Jaiyen, S., Hanskunatai, A., "Inspection System for Glass Bottle DefectClassification based on Deep Neural Network", International Journal of Advanced Computer Science and Applications, 2023, 14(7), pp. 339-348.</td>
+</tr>
+<tr>
+<td>๓. ดร.รุ่งรัตน์ เวียงศรีพนาวลัย</td>
+<td>Fh.D. (Computer Science) MSc.(Computer Science) วท.บ. (ศาสตร์คอมฟิวเตอร์)</td>
+<td>๓. ผศ.ดร.ปัทมา เจริญทร (สาขาวิชาวิทยากรคอมพิวเตอร์) ปร.ด. (วิทยาการคอมพิวเตอร์) วท.บ. (ศาสตร์คอมพิวเตอร์) วท.บ. (การพัฒนซอฟต์แวร์ ด้านธุรกิจ)</td>
+<td>I. Pongpon Nitaphruk, Pattama Charoenporn. "Knowledge Discovery and Dataset for the Improvement of Digital Literacy Skills in Undergraduate Students", Data 2023, 8(7), 121; https://doi.org/10.3390/data8070121 2. Charoenporn, P., "The Development of the Logistics Transportation Management Prototype System: A Case Study of the Economic Development along the East-West Economic Corridor in Thailand", International Journal of Emerging Technology and Advanced Engineering, 2022, 12(10), pp. 114-121 3. Onhirun, N., Charoenporn, P., "Automatical IVUS Image Segmentation and Detection Using BLOB Analysis", Lecture Notes in Networks and Systems, 2022, 453 LNNS, pp. 1-10</td>
+</tr>
+</table>
+# ทั้งนี้ ได้ผ่านการพิจารณากลั่นครองจากคณะอนุกรรมการกลั่นครองระดับปริญญาตรี และระดับ
+## บัณฑิตศึกษา เรียบร้อยแล้ว
+
+ที่ประชุมคณะกรรมการสภาวิชาการ ได้พิจารณาการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือน
+โครงสร้าง) ของคณะวิทยาศาสตร์ ประธานในที่ประชุมได้ให้คณะกรรมการฯ แสดงความคิดเห็น โดยไม่มี
+คณะกรรมการฯ ท่านใดหักท้วง จึงมีความเห็นชอบร่วมกัน ในการปรับปรุงแก้ไขหลักสูตรดังกล่าว
+
+--- หน้า 3 ---
+มติที่ประชุม ๑. เห็นชอบ การปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) ของ
+คณะวิทยาศาสตร์ จำนวน ๑ หลักสูตร ดังนี้
+# ระดับปริญญาตรี
+
+\- หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการคอมพิวเตอร์
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๕)
+
+๒. ให้เสนอคณะอนุกรรมการสภาสถาบันเพื่อพิจารณาด้านวิชาการ และสภาสถาบัน
+เพื่อโปรดพิจารณาตามลำดับ
+<figure>**Observation:** The image shows a circular emblem or seal. Inside the circle, there is Thai text at the top and bottom, along with other decorative elements.
+
+**Text Recognition:**
+The text at the top reads:
+"ที่ประชุมคณะกรรมการสภาวิชาการ เมื่อวันพุธที่ ๒๒ มกราคม พ.ศ. ๒๕๖๘"
+Which translates to "Meeting of the Academic Council on Wednesday, January 22, B.E. 2568".
+The text at the bottom reads:
+"(รองศาสตราจารย์ ดร.ปุณณมา คิริพันธ์โนน) กรรมการและเลขานุการ"
+Which translates to "(Associate Professor Dr. Punnama Kiripannon) Secretary and Vice Chairman".
+
+**Artistic & Structural Analysis:** The emblem features a central element resembling Ganesha above three pillars. There is a lotus-like symbol below the central element. The background includes concentric circles and lines dividing the space into sections. The color palette is primarily pink and peach-colored.
+
+**Final Summary:** The image is a seal featuring Thai text indicating a meeting of the Academic Council on January 22, 2015 BE (Buddhist Era). It also mentions Associate Professor Dr. Punnama Kiripannon as the secretary and vice chairman. The design incorporates elements like Ganesha, a lotus symbol, and concentric circles.</figure>
+# มติสภาวิชาการ

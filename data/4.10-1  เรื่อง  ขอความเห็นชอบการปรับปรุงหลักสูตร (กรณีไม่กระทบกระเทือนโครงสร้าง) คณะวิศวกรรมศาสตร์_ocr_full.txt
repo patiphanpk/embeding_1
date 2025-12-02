@@ -1,0 +1,661 @@
+
+--- หน้า 1 ---
+# มติคณะกรรมการสภาวิชาการ
+## ครั้งที่ ๑/๒๕๖๘ เรื่อง ขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) คณะวิศวกรรมศาสตร์
+
+คณะวิศวกรรมศาสตร์ มีความประสงค์เสนอขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร
+(กรณีไม่กระทบกระเทือนโครงสร้าง) ทั้งนี้สำนักงานบริหารวิชาการและคุณภาพการศึกษา ได้ตรวจสอบ
+หลักสูตรแล้ว เป็นไปตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘ /พ.ศ. ๒๕๖๕ ซึ่งสาระ
+ของการขอปรับปรุงเป็นการปรับปรุงแบบไม่กระทบกระเทือนโครงสร้าง โดยจำนวนหน่วยกิตรวมไม่เปลี่ยนแปลง
+
+จึงเสนอขอความเห็นชอบการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือน
+โครงสร้าง) จำนวน ๗ หลักสูตร ดังนี้
+### ระดับปริญญาตรี ๗ หลักสูตร
+
+๑) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมโทรคมนาคมและโครงข่าย (การปรับปรุงแก้ไข
+หลักสูตรฉบับปี พ.ศ. ๒๕๖๓)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+โดยผ่านการพิจารณาจาก
+
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+
+๑. เหตุผลการปรับปรุง
+
+\- อยยกเลิกรายวิชาบังคับก่อน (Prerequisite) ในหมวดวิชาเฉพาะทางวิศวกรรม กลุ่มวิชาบังคับ
+ที่กำหนดโดยหลักสูตร เพื่อให้แผนการเรียนมีความเหมาะสม และให้สอดคล้องกับพื้นฐานที่จำเป็นของรายวิชา
+เนื่องจากเนื้อหาของรายวิชา ๐๑๐๑๖๒๖๔ ปฏิบัติการวิศวกรรมโทรคมนาคม ๑ และ รายวิชาปฏิบัติการ
+วิศวกรรมโทรคมนาคม ๒ ไม่มีความต่อเนื่องล้นในรายวิชา เนื่องจากต้องการให้นักศึกษาหลักสูตรต่อเนื่อง
+ลงเรียนได้
+
+การจัดการเรียนการสอนของวิชาปฏิบัติการวิศวกรรมโทรคมนาคม ๒ นั้นปัจจุบันภาควิชาได้มี
+การทำ MOU ร่วมกับบริษัท ZTE (THAILAND) COMPANY LIMITED เพื่อให้นักศึกษาใบฝึกปฏิบัติการใช้งาน
+อุปกรณ์จริงที่บริษัททุกวันจันทร์ เป็นเหตุให้นักศึกษาในหลักสูตรอื่น เช่น วิศวกรรมไฟฟ้าสื่อสารและ
+อิเล็กทรอนิกส์ (ต่อเนื่อง) มีความสนใจและประสงค์ขอลงทะเบียนเพิ่มเติม นอกเหนือจากรายวิชาที่มีอยู่
+ในหลักสูตร ดังนั้น วิชาบังคับก่อนของวิชา ๐๑๐๑๖๒๖๕ ปฏิบัติการวิศวกรรมโทรคมนาคม ๒ เป็นเงื่อนไข
+ที่ทำให้นักศึกษาในหลักสูตรอื่นไม่สามารถลงทะเบียนได้
+### ๒. สาระในการปรับปรุงแก้ไข
+
+\- อยยกเลิกรายวิชาบังคับก่อน (Prerequisite ) ในหมวดวิชาเฉพาะทางวิศวกรรม กลุ่มวิชาบังคับ
+กลุ่มวิชาที่กำหนดโดยหลักสูตร จำนวน ๑ รายวิชา
+<table>
+<tr>
+<th colspan="2">รายวิชาบังคับก่อน (เดิม)</th>
+<th colspan="2">รายวิชาบังคับก่อน (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td>๐๑๐๑๖๒๖๕ ปฏิบัติการวิศวกรรม โทรมนาคม ๒</td>
+<td>๑(๐-๓-๑)</td>
+<td>๐๑๐๑๖๒๖๕ ปฏิบัติการวิศวกรรม โทรมนาคม ๒</td>
+<td>(๐-๓-๑)</td>
+</tr>
+<tr>
+<td rowspan="2">TELEMUNICATIONS ENGINEERING LABORATORY 2 วิชาบังคับก่อน: ๐๑๐๑๖๒๖๔ ปฏิบัติการ</td>
+<td></td>
+<td rowspan="2">TELEMUNICATIONS ENGINEERING LABORATORY 2 วิชาบังคับก่อน: : Prerequisite : NONE</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+--- หน้า 2 ---
+<table>
+<tr>
+<th colspan="2">รายวิชาบังคับก่อน (เดิม)</th>
+<th></th>
+<th>รายวิชาบังคับก่อน (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td>วิศวกรรมโทรคมนาคม ๑ Prerequisite : 01016264 TELECOMMUNICATIONS ENGINEERING LABORATORY 1</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+# ๒) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมไฟฟ้าสื่อสารและเครือข่าย (การปรับปรุง
+## แก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๖)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+### ๑. เหตุผลการปรับปรุง
+
+\- เพื่อนักศึกษาสามารถลงทะเบียนเรียน ในภาคการศึกษาเดียวกันได้ เนื่องจากรายวิชาดังกล่าวเป็น
+รายวิชาลือกที่กำหนดให้เรียนในแผนการศึกษาภาคการศึกษาเดียวกัน
+
+๒. สาระในการปรับปรุงแก้ไข
+
+\- ขยายเลิกรายวิชาบังคับก่อน (Prerequisite) ในหมวดวิชาเลือกเฉพาะสาขา กลุ่มวิชาเลือกเฉพาะสาขา
+กลุ่มวิชาที่กำหนดโดยหลักสูตร จำนวน ๑ รายวิชา
+<table>
+<tr>
+<th>รายวิชาบังคับก่อน (เดิม)</th>
+<th>รายวิชาบังคับก่อน (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td>๐๑๐๑๖๖๕๐ ปฏิบัติการระบบสมองกลฝังตัว ๑(๐-๓-๑) EMBEDDED SYSTEMS LABORATORY วิชาบังคับก่อน: ๐๑๐๑๖๖๑๐ ระบบสมองกลฝัง ตัวและการประยุกต์ใช้งาน Prerequisite: 01016610 EMBEDDE SYSTEMS AND APPLICATIONS</td>
+<td>๐๑๐๑๖๖๕๐ ปฏิบัติการระบบสมองกลฝังตัว ๑(๐-๓-๑) EMBEDDED SYSTEMS LABORATORY วิชาบังคับก่อน: ไม่มี Prerequisite: NONE</td>
+</tr>
+</table>
+<figure>**Observation:**
+The image shows a stylized graphic related to electronics or circuitry. There is Thai text present.
+
+**Text Recognition:**
+The Thai text reads "คอมเกลาเจ" which translates to "Computer Electronics".
+
+**Final Summary:**
+The image features a graphic element associated with computer electronics, accompanied by the Thai text "คอมเกลาเจ".</figure>
+# ๓) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์ (การปรับปรุงแก้ไขหลักสูตร
+
+ฉบับปี พ.ศ. ๒๕๖๓)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+
+โดยผ่านการพิจารณาจาก
+
+กา
+
+วิชาการ
+
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+## ๑. เหตุผลการปรับปรุง
+
+\- เพื่อให้นักศึกษาลงทะเบียนในรายวิชาได้ และเพิ่มวิชาที่เสริมสร้างทักษะที่มีความต้องการเพิ่มขึ้น
+
+\- เพื่อเพิ่มทางเลือกในการเรียนให้กับนักศึกษา
+
+๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอเพิ่มรายวิชาในหมวดวิชาเฉพาะ กลุ่มวิชาเลือกเฉพาะสาขา กลุ่มที่ ๓ วงจรและระบบทาง
+อิเล็กทรอนิกส์ (Electronic Circuit and Systems) จำนวน ๓ รายวิชา
+
+--- หน้า 3 ---
+# รายวิชาที่ ๑
+## ๐๑๐๔๖๘๙๘ ระบบไฟฟ้ากำลัง
+### ELECTRICAL POWER SYSTEMS
+
+วิชาบังคับก่อน : ๐๑๐๔๖๗๐๔ การวิเคราะห์วงจรไฟฟ้า ๑
+PREREQUISITE: 01046704 ELECTRIC CIRCUIT ANALYSIS 1
+
+โครงสร้างระบบไฟฟ้ากำลัง การผลิตพลังงานไฟฟ้า โรงจักรไฟฟ้าและแหล่งพลังงานทดแทน
+สถานีไฟฟ้าย่อย คุณลักษณะของโหลดแบบต่าง ๆ กราฟของโหลด กราฟของช่วงโหลดและตัวประกอบ
+ของโหลด วงจรไฟฟ้า กำลังแบบกระแสสลับ ระบบสามเฟส ระบบท่อหน่วย คุณสมบัติและแบบจำลอง
+ของเครื่องกำเนิดไฟฟ้า คุณสมบัติและแบบจำลองของหม้อแปลงไฟฟ้ากำลัง การคำนวณพารามิเตอร์และ
+แบบจำลองของสายส่งไฟฟ้า การคำนวณพารามิเตอร์และแบบจำลองของสายเคเบิล สมการโครงข่ายของ
+ระบบไฟฟ้ากำลัง พื้นฐานการไหล ของโหลด พื้นฐานการคำนวณความผิดพร่อง
+
+Electrical power system structure; Electrical energy generation, power plants and
+renewable energy resources, substation, load characteristics; Load curves, load duration curves
+and load factors, AC power circuits; three-phase circuits; per unit system; generator
+characteristics and models; power transformer characteristics and models; transmission line
+parameters and models; cable parameters and models; network equations for electrical power
+systems; fundamental of load flow; fundamental of fault calculation.
+# รายวิชาที่ ๒
+
+๐๑๐๔๖๙๐๓ ทฤษฎีระบบเชิงเส้น
+LINEAR SYSTEM THEORY
+
+วิชาบังคับก่อน : ๐๑๐๔๖๗๐๗ ระบบควบคุม
+PREREQUISITE: 01046707 CONTROL SYSTEM
+
+รูปแบบทางคณิตศาสตร์ของระบบ ทบทวนพืชคณิตเชิงเส้น ผลลัพธ์และการสร้างสเตทสเปซ
+ความสามารถในการควบคุมและสังเกตระบบนเชิงเส้น การสร้างอย่างง่าย การควบคุมป้อนกลับสเตทและ
+ตัวประมาณสเตท การวางโพลและจับคู่ตัวแบบ หลักการเบื้องต้นของระบบหลายตัวแปร แนะนำการออกแบบ
+ด้วยตัวควบคุมกำลังสองเชิงเส้นและเอชอินพินิตี้
+
+Mathematical description of systems; reviews of linear algebra; state-space
+solution and realization; controllability and observability of linear systems; minimal
+realizations and coprime fractions; state feedback control and state estimators; pole
+placement and model matching; principle of robustness for multivariable systems;
+introduction to LQR, H-infinity design.
+# รายวิชาที่ ๓
+
+๐๑๐๔๖๙๐๔ การออกแบบระบบวงจรรวมขนาดใหญ่
+VLSI SYSTEM DESIGN
+
+วิชาบังคับก่อน : ๐๑๐๔๖๗๑๐ การออกแบบดิจิทัลและลอจิก
+PREREQUISITE: 01046710 DIGITAL AND LOGIC DESIGN
+
+เนื้อหารายวิชาประกอบด้วย เทคโนโลยีวงจรรวมขนาดใหญ่ การออกแบบวงจรดิจิทัล
+แบบคอมมิเนชัน และแบบซีเวนต์ ในเทคโนโลยีซึ่มอสขนาดต่ำกว่าไมโครเมตร เทคนิคการออกแบบวงจร
+ประสิทธิภาพสูงและใช้พลังงานต่ำ ซอฟต์แวร์ในการออกแบบ
+
+๓ (๓-๐-๖)
+
+๓ (๓-๐-๖)
+
+๓ (๓-๐-๖)
+
+--- หน้า 4 ---
+The topics include VLSI technology; design of combinatorial digital circuits and
+sequential digital circuits in sub-micrometer CMOS processes; high-performance and low
+power circuit design techniques; software tools.
+# แผนที่แสดงการกระจายความรับผิดชอบมาตรฐานผลการเรียนรู้จากหลักสูตรสู่รายวิชา (Curriculum Mapping)
+<figure>**Observation:**
+The image shows two concentric circles. The inner circle is gray, and the outer area is peach-colored. There is Thai text within each circle.
+
+**Text Recognition:**
+The Thai text inside the inner circle reads "ความรับผิดชอบหลัก" which translates to "Main Responsibility." The Thai text outside the inner circle, but inside the outer circle, reads "ความรับผิดชอบรอง" which translates to "Deputy Responsibility." Both of these lines are enclosed in rounded rectangles.
+
+**Final Summary:**
+The image presents two concentric circles. The inner gray circle contains the Thai text "ความรับผิดชอบหลัก," indicating main responsibility. The outer peach-colored area contains the Thai text "ความรับผิดชอบรอง," indicating deputy responsibility. Both lines are enclosed in rounded rectangles.</figure>
+<table>
+<tr>
+<th rowspan="2">รายวิชา</th>
+<th colspan="5">1. คุณธรรม จริยธรรม</th>
+<th colspan="5">2. ความรู้</th>
+<th colspan="5">3. ทักษะทางปัญญา</th>
+<th colspan="5">4. ทักษะความสัมพันธ์ ระหว่างบุคคล และ ความรับผิดชอบ</th>
+<th colspan="5">5. ทักษะการวิเคราะห์ เชิงตัวเลข การสื่อสาร และเทคโนโลยี สารสนเทศ</th>
+</tr>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+<tr>
+<td>01046898 ระบบไฟฟ้ากำลัง ELECTRICAL POWER SYSTEMS</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>01046903 ทฤษฎีระบบเชิงเส้น LINEAR SYSTEM THEORY</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>01046904 การออกแบบระบบวงจรรวม ขนาดใหญ่ VLSI SYSTEM DESIGN</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+๔) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมขนส่งทางราง (การปรับปรุงแก้ไขหลักสูตร
+ฉบับปี พ.ศ. ๒๕๖๖)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๖๕)
+
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+๑. เหตุผลการปรับปรุง
+
+\- เนื่องจากระบุข้อมูลรายวิชาบังคับก่อนผิดพลาดในคำอธิบายรายวิชา ส่งผลให้นักศึกษาไม่สามารถลง
+เรียนในรายวิชาได้
+
+๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอแก้ไขรายวิชาบังคับก่อน (Prerequisite) ในหมวดวิชาเฉพาะ กลุ่มวิชาพื้นฐานทางวิศวกรรม
+จำนวน ๑ รายวิชา
+<table>
+<tr>
+<th>รายวิชาบังคับก่อน (เดิม)</th>
+<th>รายวิชาบังคับก่อน (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td>๐๑๑๕๖๒๓๘ พืชคณิตเชิงเส้นและสมการ ๓ (๓-๐-๖) เชิงอนุพันธ์ในปัญหาวิศวกรรมเครื่องกล LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS IN MECHANICAL ENGINEERING PROBLEMS วิชาบังคับก่อน:๐๑๐๐๖๐๓๑ แคลคูคัส ๒ Prerequisite: 01006031 CALCULUS 2</td>
+<td>๐๑๑๕๖๒๓๘ พืชคณิตเชิงเส้นและสมการ ๓ (๓-๐-๖) เชิงอนุพันธ์ในปัญหาวิศวกรรมเครื่องกล LINEAR ALGEBRA AND DIFFERENTIAL EQUATIONS IN MECHANICAL ENGINEERING PROBLEMS วิชาบังคับก่อน: ๐๑๐๐๖๐๐๒ คณิตศาสตร์ วิศวกรรม ๒ Prerequisite: 01006002 ENGINEERING MATHEMATICS 2</td>
+</tr>
+</table>
+
+--- หน้า 5 ---
+# ๕) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาวิศวกรรมเกษตรอัจฉริยะ (การปรับปรุงแก้ไขหลักสูตร
+ฉบับปี พ.ศ. ๒๕๖๘)
+## (ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๖๕)
+
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+### ๑. เหตุผลการปรับปรุง
+
+\- เนื่องจากความผิดพลาดในการพิมพ์ เพื่อให้สอดคล้องกับแผนการศึกษา
+
+\- เนื่องจากความผิดพลาดในการพิมพ์ เพื่อให้ถูกต้องและสอดคล้องกันตลอดเล่มหลักสูตร
+### ๒. สาระในการปรับปรุงแก้ไข
+
+\- เพิ่มรายวิชาในโครงสร้างหลักสูตรในหมวดวิชาศึกษาทั่วไป ได้แก่ ๙๐๖๔๑๐๐๘ พื้นฐานทักษะ
+การสื่อสารภาษาอังกฤษ Introduction to English Communication Skills ๐ (๐-๐-๔๕)
+จากเดิม
+<table>
+<tr>
+<th rowspan="2">รหัสวิชา</th>
+<th rowspan="2">ชื่อวิชา</th>
+<th>หน่วยกิต</th>
+</tr>
+<tr>
+<th>(บรรยาย -ปฏิบัติ-คึกษาด้วยตนเอง)</th>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๙</td>
+<td>ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม ๑ Intercultural Communication Skills in English 1</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๑๐</td>
+<td>ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม ๒ Intercultural Communication Skills in English 2</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๗</td>
+<td>พลเมืองดิจิทัล Digital Citizen</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๔</td>
+<td>โครงงานกลุ่ม ๑ Team Project 1</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๕</td>
+<td>โครงงานกลุ่ม ๒ Team Project 2</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๖</td>
+<td>โครงงานกลุ่ม ๓ Team Project 3</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+</table>
+เป็น
+<table>
+<tr>
+<th>รหัสวิชา</th>
+<th>ชื่อวิชา</th>
+<th>หน่วยกิต (บรรยาย-ปฏิบัติ-คึกษาด้วยตนเอง)</th>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๘</td>
+<td>พื้นฐานทักษะการสื่อสารภาษาอังกฤษ Introduction to English Communication Skills</td>
+<td>๐ (๐-๐-๔๕)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๙</td>
+<td>ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม ๑ Intercultural Communication Skills in English 1</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๑๐</td>
+<td>ทักษะการสื่อสารภาษาอังกฤษระหว่างวัฒนธรรม ๒ Intercultural Communication Skills in English 2</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๗</td>
+<td>พลเมืองดิจิทัล</td>
+<td>๓ (๓-๐-๖)</td>
+</tr>
+<tr>
+<td></td>
+<td>Digital Citizen</td>
+<td></td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๔</td>
+<td>โครงงานกลุ่ม ๑ Team Project 1</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+</table>
+
+--- หน้า 6 ---
+<table>
+<tr>
+<th rowspan="2">รหัสวิชา</th>
+<th rowspan="2">ชื่อวิชา</th>
+<th>หน่วยกิต (บรรยาย-ปฏิบัติ-ศึกษาด้วยตนเอง)</th>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๕</td>
+<td>โครงงานกลุ่ม ๒ Team Project 2</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+<tr>
+<td>๙๐๖๔๑๐๐๖</td>
+<td>โครงงานกลุ่ม ๓ Team Project 3</td>
+<td>๑ (๐-๒-๑)</td>
+</tr>
+</table>
+\- ขอแก้ไขชื่อรายวิชาภาษาไทยและจำนวนหน่วยกิตของรายวิชา ในโครงการสร้างรายวิชาและคำอธิบาย
+รายวิชา จำนวน ๓ รายวิชา
+<table>
+<tr>
+<th>ชื่อรายวิชาและจำนวนหน่วยกิต (เดิม)</th>
+<th colspan="2">ชื่อรายวิชาและจำนวนหน่วยกิต (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td>๐๑๑๐๖๘๑๐ งานโยธาสำหรับวิศวกรรม เภสตรอัจฉริยะ Civil Works for Agri-intelligence Engineers</td>
+<td>๐๑๑๐๖๘๑๐ งานโยธาสำหรับวิศวกรรม เภสตรอัจฉริยะ Civil Works for Agri-intelligence Engineers</td>
+<td></td>
+</tr>
+<tr>
+<td>๐๑๑๐๖๘๗๖ กระบวนการผลิตใน อุตสาหกรรมอ้อยแล่น้ำตาล Production Processes in Sugarcane and Sugar Industry</td>
+<td>๐๑๑๐๖๘๗๖ กระบวนการผลิตใน อุตสาหกรรมอ้อยแล่น้ำตาล Production Processes in Sugarcane and Sugar Industry</td>
+<td>(๓-๒-๗) (๓-๒-๗)</td>
+</tr>
+<tr>
+<td>๐๑๑๐๖๘๖๔ การเรียนรู้ของเครื่อง Machine Learning</td>
+<td>๐๑๑๐๖๘๖๔ การเรียนรู้ของเครื่อง Machine Learning</td>
+<td>๓(๒-๒-๕) ๓(๓-๐-๖)</td>
+</tr>
+</table>
+๖) หลักสูตรวิศวกรรมศาสตรบัญฑิต สาขาวิชาวิศวกรรมเครื่องกล (หลักสูตรนานาชาติ) (การปรับปรุง
+แก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๕)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๕๘)
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ ครั้งที่ ๑๒/๒๕๖๗ เมื่อวันที่ ๑๘ ธันวาคม ๒๕๖๗
+๑. เหตุผลการปรับปรุง
+
+\- เพื่อให้นักศึกษาที่ใช้หลักสูตรฉบับปี พ.ศ. ๒๕๖๒ สามารถลงเรียนในรายวิชาดังกล่าวนี้ได้
+
+๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอเพิ่มรายวิชาบังคับก่อน (Prerequisite) ของรายวิชา 01426024 Power Plants 3(3-0-6)
+<table>
+<tr>
+<th>รายวิชาบังคับก่อน (เดิม)</th>
+<th>รายวิชาบังคับก่อน (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td>01426024 POWER PLANTS 3(3-0-6) วิชาบังคับก่อน : 01426029 THERMODYNAMICS</td>
+<td>01426024 POWER PLANTS 3(3-0-6) วิชาบังคับก่อน : 01426029 THERMODYNAMICS หรือ 01426004 THERMODYNAMICS 1</td>
+</tr>
+</table>
+
+--- หน้า 7 ---
+๗) หลักสูตรวิศวกรรมศาสตรบัณฑิต สาขาวิชาการจัดการวิศวกรรมและการเป็นผู้ประกอบการ (หลักสูตร
+นานาชาติ) (การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๓)
+
+(ตามเกณฑ์มาตรฐานหลักสูตรระดับปริญญาตรี พ.ศ. ๒๕๖๕)
+
+โดยผ่านการพิจารณาจาก
+คณะกรรมการประจำส่วนงานวิชาการ คณะวิศวกรรมศาสตร์ มติเวียน เมื่อวันที่ ๒๕ ธันวาคม ๒๕๖๗
+# ๑. เหตุผลการปรับปรุง
+
+\- เพื่อให้นักศึกษาลงทะเบียนเรียนได้ตามปกติ
+
+\- เพื่อประโยชน์ของนักศึกษาให้สามารถเรียนรายวิชาศึกษาทั่วไปที่ทันสมัย และสามารถจบการศึกษา
+ตามโครงสร้างหลักสูตร
+## ๒. สาระในการปรับปรุงแก้ไข
+
+\- ขอแก้ไขคำอธิบายรายวิชาและรหัสรายวิชาบังคับก่อน (Prerequisite) ในกลุ่ม B4.1 Project 1
+and Project 2 /or ของรายวิชา 01536702 PROJECT 2 3(0-9-5) ดังนี้
+<table>
+<tr>
+<th rowspan="2">รหัสรายวิชาบังคับก่อนและคำอธิบายรายวิชา (เดิม)</th>
+<th>รหัสรายวิชาบังคับก่อนและคำอธิบายรายวิชา (แก้ไขใหม่)</th>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td>01536702 PROJECT 2 Prerequisite: 01536702 PROJECT 2 The students are assigned to work either individually or as a team under guidance of one (or more) advisors to study continue from Project 1 in some engineering management or entrepreneurial problem. The students are expected to do independent study on the topics that are necessary for or related to their project. The required project final report must be submitted and presented to the examination committee at the end of the semester.</td>
+<td>01536702 PROJECT 2 Prerequisite: 01536701 PROJECT 1 The students are assigned to work either individually or as a team under the guidance of one (or more) advisor to continue studying Project 1 in some engineering management or entrepreneurial problems. The students are expected to do independent study on the topics that are necessary for or related to their project. The required project final report must be submitted and presented to the examination committee at the end of the semester.</td>
+</tr>
+</table>
+\- ขอใช้เล่มหมวดวิชาศึกษาทั่วไป (หลักสูตรนานาชาติ) ฉบับปี พ.ศ. ๒๕๖๔ กับนักศึกษาที่ลงทะเบียน
+เรียนรายวิชา รหัส ๙๖๖๔XXXX ตั้งแต่ปีการศึกษา ๒๕๖๓ เป็นต้นไป โดยให้นับรายวิชาที่มีรหัสดังกล่าวกับ
+หมวด A2. General-Education Elective Courses
+
+\- ขอเพิ่มรายวิชาในหมวด A2. General-Education Elective Courses จำนวน ๑ รายวิชา
+
+01416003 INTERPRETATION AND ARGUMENTS
+3(3-0-6)
+
+PREREQUISITE: NONE
+
+This course provides the study of interpreting and analyzing written and visual
+arguments. Students will learn to identify the underlying values, definitions, and assumptions in
+those arguments. The students also learn how to synthesize a multiplicity of competing
+perspectives, and to articulate fundamental disagreements between those perspectives.
+
+Ultimately, students will advance their contributions to discussions
+in engineering, business innovations, and technology studies.
+
+--- หน้า 8 ---
+# แบบแสดงการกระจายความรับผิดชอบมาตรฐานผลการเรียนรู้จากหลักสูตรสู่รายวิชา (Curriculum Mapping)
+
+· Major Responsibility
+☐
+Minor Responsibility
+<table>
+<tr>
+<th rowspan="2">Subject</th>
+<th colspan="2">(1) Moral and ethics</th>
+<th>(2) Knowledge</th>
+<th></th>
+<th>(3) Cognitive skills</th>
+<th></th>
+<th>(4) Interpersonal skills and responsibility</th>
+<th></th>
+<th>(5) Analytical and communication skills</th>
+</tr>
+<tr>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th>2 3 4 5</th>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+<th>2</th>
+<th>1</th>
+</tr>
+<tr>
+<td>01416003 INTERPRETATON AND ARGUMENTS</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+<td>☒ ☒</td>
+</tr>
+</table>
+ทั้งนี้ ได้ผ่านการพิจารณาคลั่นครองจากคณะอนุกรรมการกลั่นครองระดับปริญญาตรี และระดับ
+บัณฑิตศึกษา เรียบร้อยแล้ว
+
+ที่ประชุมคณะกรรมการสภาวิชาการ ได้พิจารณาการปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือน
+โครงสร้าง) ของคณะวิศวกรรมศาสตร์ ประธานในที่ประชุมได้ให้คณะกรรมการฯ แสดงความคิดเห็น โดยไม่มี
+คณะกรรมการฯ ท่านใดทักท้วง จึงมีความเห็นชอบร่วมกัน ในการปรับปรุงแก้ไขหลักสูตรดังกล่าว
+
+มติ ที่ประชุม ๑. เห็นชอบ การปรับปรุงแก้ไขหลักสูตร (กรณีไม่กระทบกระเทือนโครงสร้าง) ของ
+คณะวิศวกรรมศาสตร์ จำนวน ๗ หลักสูตร ดังนี้
+ระดับปริญญาตรี
+
+๑) หลักสูตรวิศวกรรมศาสตรบัญชิต สภาวิชาวิศวกรรมโทรคมนาคมและโครงข่าย
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๓)
+
+๒) หลักสูตรวิศวกรรมศาสตรบัญชิต สภาวิชาวิศวกรรมไฟฟ้าสื่อสารและเครือข่าย
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๖)
+
+๓) หลักสูตรวิศวกรรมศาสตรบัญชิต สาขาวิชาวิศวกรรมอิเล็กทรอนิกส์
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๓)
+
+๔) หลักสูตรวิศวกรรมศาสตรบัญชิต สาขาวิชาวิศวกรรมขนส่งทางราง
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๖)
+
+๕) หลักสูตรวิศวกรรมศาสตรบัญชิต สาขาวิชาวิศวกรรมเกษตรอัจฉริยะ
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๘)
+
+๖) หลักสูตรวิศวกรรมศาสตรบัญชิต สาขาวิชาวิศวกรรมเครื่องกล (หลักสูตรนานาชาติ)
+(การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๕)
+
+๗) หลักสูตรวิศวกรรมศาสตรบัญชิต สาขาวิชาการจัดการวิศวกรรมและการเป็นผู้ประกอบการ
+(หลักสูตรนานาชาติ) (การปรับปรุงแก้ไขหลักสูตร ฉบับปี พ.ศ. ๒๕๖๓)
+
+--- หน้า 9 ---
+๒. ให้เสนอคณะอนุกรรมการสภาสถาบันเพื่อพิจารณาด้านวิชาการ และสภาสถาบัน
+เพื่อโปรดพิจารณาตามลำดับ
+<figure>**Observation:**
+ภาพนี้เป็นภาพของหน้าปกหรือเอกสารที่มีข้อความและตราสัญลักษณ์อยู่ตรงกลาง มีข้อความภาษาไทยและลายเซ็นปรากฏอยู่ด้านบน นอกจากนี้ยังมีตราประทับขนาดใหญ่อยู่ตรงกลางเอกสาร
+
+**Text Recognition:**
+*   "ที่ประชุมคณะกรรมการสภาวิชาการ เมื่อวันพุธที่ ๒๒ มกราคม พ.ศ. ๒๕๖๘"
+*   "(รองศาสตราจารย์ ดร.ปุณณมา ศิริพันธ์โนน)"
+*   "กรรมการและเลขาานุการ"
+*   "มติสภาวิชาการ" (อยู่ด้านล่าง)
+
+**Final Summary:**
+ภาพนี้แสดงหน้าปกหรือเอกสารที่เกี่ยวข้องกับการประชุมคณะกรรมการสภาวิชาการเมื่อวันพุธที่ ๒๒ มกราคม พ.ศ. ๒๕๖๘ โดยมีรายชื่อผู้เข้าร่วมประชุมคือ รองศาสตราจารย์ ดร.ปุณณมา ศิริพันธ์โนน ซึ่งดำรงตำแหน่งกรรมการและเลขาานุการ เอกสารนี้อาจเกี่ยวข้องกับรายงานหรือผลการประชุมของคณะกรรมการสภาวิชาการ</figure>
+เลขานุการ

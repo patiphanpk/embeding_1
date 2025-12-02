@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  weaviate:
+    image: cr.weaviate.io/semitechnologies/weaviate:1.32.7
+    command:
+      - --host
+      - 0.0.0.0
+      - --port
+      - "8080"
+      - --scheme
+      - http
+    ports:
+      - "8080:8080"     # HTTP API
+      - "50051:50051"   # gRPC (ถ้าใช้ client รุ่นใหม่)
+    restart: on-failure:0
+    volumes:
+      - weaviate_data:/var/lib/weaviate
+    environment:
+      # พื้นฐาน
+      QUERY_DEFAULTS_LIMIT: "25"
+      PERSISTENCE_DATA_PATH: "/var/lib/weaviate"
+      ENABLE_API_BASED_MODULES: "true"
+      CLUSTER_HOSTNAME: "node1"
+
+      # เปิดใช้ Auth ด้วย API Key + RBAC
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: "false"
+      AUTHENTICATION_APIKEY_ENABLED: "true"
+      AUTHENTICATION_APIKEY_ALLOWED_KEYS: "6a9d1f5c-0e2c-47b4-b99f-fabf573cc4a2,3f12c2b9-51e0-4fcb-8e67-91a8842df0f0"
+      AUTHENTICATION_APIKEY_USERS: "admin,reader"
+      AUTHORIZATION_ENABLE_RBAC: "true"
+      AUTHORIZATION_RBAC_ROOT_USERS: "admin"
+
+      
+volumes:
+  weaviate_data:
